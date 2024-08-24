@@ -1,9 +1,9 @@
 using UnityEngine;
 
-namespace MatchThree
+namespace MatchThree.Items
 {
-    public class Cookie : MonoBehaviour
+    public class Cookie : Candy
     {
-    
+
     }
 }

@@ -1,8 +1,6 @@
-using UnityEngine;
-
-namespace MatchTree.Items
+namespace MatchThree.Items
 {
-    public class Candy : MonoBehaviour
+    public class Candy : GridCell
     {
         
     }
