@@ -166,12 +166,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9eaaf29f1bba24d498e02af0f9c2ede2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _gridCellArea:
-    x: 9
-    y: 9
   _cellSizeInPixels: 1
-  _initialCellPosition: {x: -4, y: 4}
-  _emptyCellPrefab: {fileID: 6225653052175940668, guid: f75462c511384934187f9e08e20ad025, type: 3}
+  _startCellPosition: {x: 0, y: 0}
+  _emptyCellPrefab: {fileID: 0}
   _candyTypes:
   - {fileID: -8376677451863908651, guid: ef1ddbbe63e744e4985fdfd2cd8ebd68, type: 3}
   _gridTemplate: {fileID: 4900000, guid: 2869cb935ecf2fe43be0f0237648f118, type: 3}
