@@ -26,6 +26,7 @@ namespace MatchThree.Grid
         private void Start()
         {
             TranslateFileToGrid();
+            InstantiateCells();
         }
 
         private void ResetMap()
